@@ -1,5 +1,7 @@
 # Next.js + Statoscope
 
+[![npm version](https://img.shields.io/npm/v/next-statoscope)](https://www.npmjs.com/package/next-statoscope)
+
 Use [statoscope](https://github.com/statoscope/statoscope) in your Next.js project.
 
 ## Installation
