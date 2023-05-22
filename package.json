@@ -1,6 +1,6 @@
 {
 	"name": "next-statoscope",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"main": "index.js",
 	"types": "index.d.ts",
 	"license": "MIT",
@@ -8,6 +8,10 @@
 		"type": "git",
 		"url": "https://github.com/pajecawav/next-statoscope.git"
 	},
+	"files": [
+		"index.d.ts",
+		"index.js"
+	],
 	"dependencies": {
 		"@statoscope/webpack-plugin": "^5.26.2"
 	}
